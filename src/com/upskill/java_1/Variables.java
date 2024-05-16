@@ -31,5 +31,6 @@ public class Variables {
 		String city = "Hartford";
 		System.out.println(city);
 	}
+	
 
 }
